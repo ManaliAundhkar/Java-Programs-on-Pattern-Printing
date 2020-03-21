@@ -2,7 +2,7 @@
 //Input : iRow = 4 iCol = 4
 
 //Output : A B C D
-//		   A B C D
+//         A B C D
 //         A B C D
 //         A B C D
 
